@@ -2,7 +2,7 @@
 
 Remember to submit a single rendered PDF or HTML file (either from .Rmd or a Jupyter Notebook) via GitHub **by Friday at 5 pm** in this repo.
 
-1. Load the state legislative professionalism data from the folder. See the codebook for reference in the same folder and combine with our discussion of these data and the concept of state legislative professionalism from class for relevant background information. 
+1. Load the state legislative professionalism data from the relevant subdirectory in this repo. See the codebook for reference in the same subdirectory and combine with our discussion of these data and the concept of state legislative professionalism from class for relevant background information. 
 
 2. Munge the data: 
 * select only the continuous features that should capture a state legislature’s level of "professionalism" (session length (total and regular), salary, and expenditures); 
